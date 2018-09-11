@@ -7,4 +7,7 @@ glue.ai social robotics software - nextgen experiments
 The existing glue.ai 1.x stack is defined by a set of projects listed on:
 http://glue.ai
 
-This glue-ai-ng repository on github contains preliminary exploration of glue.ai 2.x features.
+This glue-ai-ng repository on github contains preliminary experiments to be shaped into glue.ai 2.x features.
+
+We expect Glue.ai 2.x to be based on Scala, Akka, RDF, and our new companion project:  
+Axiomagic:  https://github.com/stub22/axiomagic
