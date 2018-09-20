@@ -3,8 +3,12 @@
 ## glue.ai 2.0 
 This glue-ai-ng repository on github contains preliminary experiments to be shaped into glue.ai 2.x features in 2019.
 ### Information Architecture 
-We expect Glue.ai 2.x to be based on semantic models, RDF, math, and our new companion project: \
-Axiomagic:  https://github.com/stub22/axiomagic
+We expect Glue.ai 2.x to be based on semantic models, RDF, math, and our new companion project:   
+	[Axiomagic](https://github.com/stub22/axiomagic)  
+	
++ [Solid Binding](./survey/surv_linkd/SolidGlue.md)
++ Second thing  
+ 
 ### Reference Implementation
 The concrete reference implementation will use Scala, Akka, and probably maven.
 #### Gitter Chat
