@@ -8,7 +8,8 @@ standards for relevance.
 
 
 
-+ Solid
++ [Solid](./survey/surv_linkd/SolidGlue.md)
+
 + WebID : https://dvcs.w3.org/hg/WebID/raw-file/tip/spec/identity-respec.html
 
 + [WoT = Web of Things](WebOfThingsGlue.md)
