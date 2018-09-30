@@ -8,7 +8,7 @@ standards for relevance.
 
 
 
-+ [Solid](./survey/surv_linkd/SolidGlue.md)
++ [Solid](./SolidGlue.md) - decentralized social data storage and sharing
 
 + WebID : https://dvcs.w3.org/hg/WebID/raw-file/tip/spec/identity-respec.html
 
